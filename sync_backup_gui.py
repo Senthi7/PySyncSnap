@@ -1,136 +1,134 @@
 import os
 import shutil
-import filecmp
+import json
+import time
 import tkinter as tk
 from tkinter import filedialog, messagebox
-import json
 import threading
-import time
 
-CONFIG_FILE = 'backup_config.json'  # The configuration file to save/load source and destination folders
+CONFIG_FILE = 'backup_config.json'
 LOG_FILE = 'log.txt'
+SNAPSHOT_FILE = 'snapshot.json'
 
-def load_config():
-    if os.path.exists(CONFIG_FILE):
-        with open(CONFIG_FILE, 'r', encoding='utf-8') as file:
+def load_json(file_path):
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as file:
             return json.load(file)
-    return {'source_folders': [], 'destination': ''}
+    return {}
 
-def save_config(config):
-    with open(CONFIG_FILE, 'w', encoding='utf-8') as file:
-        json.dump(config, file, indent=4)
+def save_json(data, file_path):
+    with open(file_path, 'w', encoding='utf-8') as file:
+        json.dump(data, file, indent=4)
 
-def log_message(message, log_widget, log_file):
-    print(message)  # Print message for debugging in console
+def log_message(message, log_widget):
+    print(message)
     log_widget.insert(tk.END, message + '\n')
     log_widget.yview(tk.END)
-    with open(log_file, 'a', encoding='utf-8') as file:
+    with open(LOG_FILE, 'a', encoding='utf-8') as file:
         file.write(message + '\n')
 
-def should_copy_file(source_item, destination_item):
-    """Check if a file should be copied based on its metadata and content."""
-    if not os.path.exists(destination_item):
+def should_copy_file(source_item, snapshot_data):
+    """Determine if a file should be copied based on the snapshot data."""
+    if source_item not in snapshot_data:
         return True
-
     source_stat = os.stat(source_item)
-    destination_stat = os.stat(destination_item)
-
-    if source_stat.st_size != destination_stat.st_size or source_stat.st_mtime > destination_stat.st_mtime:
+    snapshot_stat = snapshot_data[source_item]
+    if source_stat.st_size != snapshot_stat['size'] or source_stat.st_mtime > snapshot_stat['mtime']:
         return True
-
     return False
 
-def sync_folders(source, destination, log_widget):
+def update_snapshot(source_item, snapshot_data):
+    """Update the snapshot data with the current state of a file."""
+    source_stat = os.stat(source_item)
+    snapshot_data[source_item] = {
+        'size': source_stat.st_size,
+        'mtime': source_stat.st_mtime
+    }
+
+def sync_folders(source, destination, log_widget, snapshot_data):
     if not os.path.exists(destination):
         os.makedirs(destination)
-        log_message(f"Created directory: {destination}", log_widget, LOG_FILE)
-    
+        log_message(f"Created directory: {destination}", log_widget)
+
     for item in os.listdir(source):
         source_item = os.path.join(source, item)
         destination_item = os.path.join(destination, item)
 
-        log_message(f"Processing item: {source_item}", log_widget, LOG_FILE)
-        start_time = time.time()
-
+        log_message(f"Processing item: {source_item}", log_widget)
         if os.path.isdir(source_item):
-            log_message(f"Entering directory: {source_item}", log_widget, LOG_FILE)
-            sync_folders(source_item, destination_item, log_widget)
+            sync_folders(source_item, destination_item, log_widget, snapshot_data)
         else:
-            if should_copy_file(source_item, destination_item):
+            if should_copy_file(source_item, snapshot_data):
                 try:
-                    pre_copy_time = time.time()
-                    log_message(f"Preparing to copy: {source_item} to {destination_item}", log_widget, LOG_FILE)
                     if not os.path.exists(os.path.dirname(destination_item)):
                         os.makedirs(os.path.dirname(destination_item))
-                    copy_start_time = time.time()
-                    log_message(f"Start copying: {source_item} to {destination_item}", log_widget, LOG_FILE)
+                    log_message(f"Copying: {source_item} to {destination_item}", log_widget)
                     shutil.copy2(source_item, destination_item)
-                    copy_end_time = time.time()
-                    log_message(f"Finished copying: {source_item} to {destination_item} in {copy_end_time - copy_start_time} seconds", log_widget, LOG_FILE)
+                    update_snapshot(source_item, snapshot_data)
+                    log_message(f"Finished copying: {source_item} to {destination_item}", log_widget)
                 except Exception as e:
-                    log_message(f"Error copying {source_item} to {destination_item}: {str(e)}", log_widget, LOG_FILE)
+                    log_message(f"Error copying {source_item}: {str(e)}", log_widget)
             else:
-                log_message(f"Skipped (identical): {source_item}", log_widget, LOG_FILE)
-
-        end_time = time.time()
-        log_message(f"Time taken to process {source_item}: {end_time - start_time} seconds", log_widget, LOG_FILE)
+                log_message(f"Skipped (identical): {source_item}", log_widget)
 
 def start_sync_thread():
     thread = threading.Thread(target=start_sync)
     thread.start()
 
 def start_sync():
-    config = load_config()
+    config = load_json(CONFIG_FILE)
+    snapshot_data = load_json(SNAPSHOT_FILE)
     destination = destination_folder.get()
-    
+
     if not destination:
         messagebox.showwarning("Input Error", "Please select a destination folder.")
         return
-    
-    log_widget.delete(1.0, tk.END)  # Clear the log widget
+
+    log_widget.delete(1.0, tk.END)
     if os.path.exists(LOG_FILE):
-        os.remove(LOG_FILE)  # Remove the old log file if it exists
-    
+        os.remove(LOG_FILE)
+
     for source in config['source_folders']:
         folder_name = os.path.basename(source)
         destination_path = os.path.join(destination, folder_name)
-        sync_folders(source, destination_path, log_widget)
-    
+        sync_folders(source, destination_path, log_widget, snapshot_data)
+
+    save_json(snapshot_data, SNAPSHOT_FILE)
     messagebox.showinfo("Sync Complete", "Folders have been synchronized successfully.")
 
 def browse_source():
     folder_selected = filedialog.askdirectory()
     if folder_selected:
         source_listbox.insert(tk.END, folder_selected)
-        config = load_config()
+        config = load_json(CONFIG_FILE)
         config['source_folders'].append(folder_selected)
-        save_config(config)
+        save_json(config, CONFIG_FILE)
 
 def delete_source():
     selected_indices = source_listbox.curselection()
     if not selected_indices:
         messagebox.showwarning("Selection Error", "Please select a folder to delete.")
         return
-    
+
     selected_index = selected_indices[0]
     source_listbox.delete(selected_index)
-    
-    config = load_config()
+
+    config = load_json(CONFIG_FILE)
     del config['source_folders'][selected_index]
-    save_config(config)
+    save_json(config, CONFIG_FILE)
 
 def browse_destination():
     folder_selected = filedialog.askdirectory()
     if folder_selected:
         destination_folder.set(folder_selected)
-        config = load_config()
+        config = load_json(CONFIG_FILE)
         config['destination'] = folder_selected
-        save_config(config)
+        save_json(config, CONFIG_FILE)
 
 def load_saved_folders():
-    config = load_config()
-    destination_folder.set(config['destination'])
-    for folder in config['source_folders']:
+    config = load_json(CONFIG_FILE)
+    destination_folder.set(config.get('destination', ''))
+    for folder in config.get('source_folders', []):
         source_listbox.insert(tk.END, folder)
 
 # Create the main window
