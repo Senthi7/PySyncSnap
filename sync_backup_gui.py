@@ -4,6 +4,7 @@ import shutil
 import tkinter as tk
 from tkinter import filedialog, messagebox
 import threading
+import hashlib
 
 CONFIG_FILE = 'backup_config.json'
 SNAPSHOT_FILE = 'snapshot.json'
@@ -42,14 +43,23 @@ def update_snapshot(source_item, snapshot_data):
         'size': source_stat.st_size,
         'mtime': source_stat.st_mtime
     }
-
+def calculate_file_hash(file_path):
+    """Calculate the MD5 hash of a file."""
+    hash_md5 = hashlib.md5()
+    with open(file_path, "rb") as f:
+        for chunk in iter(lambda: f.read(4096), b""):
+            hash_md5.update(chunk)
+    return hash_md5.hexdigest()
+    
 def find_renamed_file(source_item, destination_items, snapshot_data):
     """Try to find if a source file has been renamed in the destination."""
-    source_size = os.stat(source_item).st_size
+    source_hash = calculate_file_hash(source_item)
     for dest_item in destination_items:
-        dest_path = os.path.join(dest_item)
-        if dest_path in snapshot_data and os.stat(dest_path).st_size == source_size:
-            return dest_path
+        dest_path = os.path.join(destination, dest_item)
+        if dest_path in snapshot_data:
+            dest_hash = calculate_file_hash(dest_path)
+            if source_hash == dest_hash:
+                return dest_path
     return None
 
 def sync_file(source_item, destination_item, snapshot_data, log_widget):
