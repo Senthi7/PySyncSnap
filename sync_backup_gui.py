@@ -28,7 +28,6 @@ def log_message(message, log_widget, log_to_file=True):
             file.write(message + '\n')
 
 def should_copy_file(source_item, snapshot_data):
-    """Determine if a file should be copied based on the snapshot data."""
     source_stat = os.stat(source_item)
     if source_item not in snapshot_data:
         return True
@@ -37,14 +36,22 @@ def should_copy_file(source_item, snapshot_data):
         return True
     return False
 
-
 def update_snapshot(source_item, snapshot_data):
-    """Update the snapshot data with the current state of a file."""
     source_stat = os.stat(source_item)
     snapshot_data[source_item] = {
         'size': source_stat.st_size,
         'mtime': source_stat.st_mtime
     }
+
+def find_renamed_file(source_item, destination_items, snapshot_data):
+    """Try to find if a source file has been renamed in the destination."""
+    source_size = os.stat(source_item).st_size
+    for dest_item in destination_items:
+        dest_path = os.path.join(dest_item)
+        if dest_path in snapshot_data and os.stat(dest_path).st_size == source_size:
+            return dest_path
+    return None
+
 def sync_file(source_item, destination_item, snapshot_data, log_widget):
     """Synchronize a single file from source to destination."""
     try:
@@ -57,7 +64,7 @@ def sync_file(source_item, destination_item, snapshot_data, log_widget):
             log_message(f"Skipped (identical): {source_item}", log_widget, log_to_file=False)
     except Exception as e:
         log_message(f"Error copying {source_item}: {str(e)}", log_widget)
-        
+
 def sync_folders(source, destination, snapshot_data, log_widget):
     """Synchronize folders between source and destination."""
     if not os.path.exists(destination):
@@ -67,30 +74,28 @@ def sync_folders(source, destination, snapshot_data, log_widget):
     source_items = set(os.listdir(source))
     destination_items = set(os.listdir(destination))
 
-    for item in source_items.union(destination_items):
+    for item in source_items:
         source_item = os.path.join(source, item)
         destination_item = os.path.join(destination, item)
 
-        if item in source_items and os.path.isdir(source_item):
+        if os.path.isdir(source_item):
             sync_folders(source_item, destination_item, snapshot_data, log_widget)
-        elif item in source_items and os.path.isfile(source_item):
-            sync_file(source_item, destination_item, snapshot_data, log_widget)
-        elif item in destination_items and os.path.isfile(destination_item):
-            # Handle files present in destination but not in source
-            if item not in source_items:
-                log_message(f"New file in destination: {destination_item}", log_widget)
-                # Decide on copying back to source or another action
-        elif item in destination_items and os.path.isdir(destination_item):
-            # Handle new directories in destination
-            log_message(f"New directory in destination: {destination_item}", log_widget)
-            # Decide on action to sync back to source
+        elif os.path.isfile(source_item):
+            if not os.path.exists(destination_item):
+                renamed = find_renamed_file(source_item, destination_items, snapshot_data)
+                if renamed:
+                    log_message(f"Detected rename: {renamed} -> {destination_item}", log_widget)
+                    os.rename(renamed, destination_item)
+                    update_snapshot(source_item, snapshot_data)
+                else:
+                    sync_file(source_item, destination_item, snapshot_data, log_widget)
+            else:
+                sync_file(source_item, destination_item, snapshot_data, log_widget)
 
 def start_sync_thread():
     thread = threading.Thread(target=start_sync)
     thread.start()
 
-
-# Main sync logic
 def start_sync():
     config = load_json(CONFIG_FILE)
     snapshot_data = load_json(SNAPSHOT_FILE)
@@ -147,14 +152,11 @@ def load_saved_folders():
     for folder in config.get('source_folders', []):
         source_listbox.insert(tk.END, folder)
 
-# Create the main window
 root = tk.Tk()
 root.title("Folder Sync")
 
-# Create StringVar to hold folder paths
 destination_folder = tk.StringVar()
 
-# Create and place widgets
 tk.Label(root, text="Source Folders:").grid(row=0, column=0, padx=10, pady=10)
 source_listbox = tk.Listbox(root, width=50, height=10)
 source_listbox.grid(row=0, column=1, padx=10, pady=10)
@@ -170,8 +172,6 @@ tk.Button(root, text="Start Sync", command=start_sync_thread).grid(row=3, column
 log_widget = tk.Text(root, height=10, width=70)
 log_widget.grid(row=4, column=0, columnspan=3, padx=10, pady=10)
 
-# Load saved folders on startup
 load_saved_folders()
 
-# Run the application
 root.mainloop()
