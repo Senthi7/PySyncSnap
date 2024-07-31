@@ -37,6 +37,7 @@ def should_copy_file(source_item, snapshot_data):
         return True
     return False
 
+
 def update_snapshot(source_item, snapshot_data):
     """Update the snapshot data with the current state of a file."""
     source_stat = os.stat(source_item)
@@ -44,34 +45,52 @@ def update_snapshot(source_item, snapshot_data):
         'size': source_stat.st_size,
         'mtime': source_stat.st_mtime
     }
-
-def sync_folders(source, destination, log_widget, snapshot_data):
+def sync_file(source_item, destination_item, snapshot_data, log_widget):
+    """Synchronize a single file from source to destination."""
+    try:
+        if should_copy_file(source_item, snapshot_data):
+            log_message(f"Copying: {source_item} to {destination_item}", log_widget)
+            shutil.copy2(source_item, destination_item)
+            update_snapshot(source_item, snapshot_data)
+            log_message(f"Finished copying: {source_item} to {destination_item}", log_widget)
+        else:
+            log_message(f"Skipped (identical): {source_item}", log_widget, log_to_file=False)
+    except Exception as e:
+        log_message(f"Error copying {source_item}: {str(e)}", log_widget)
+        
+def sync_folders(source, destination, snapshot_data, log_widget):
+    """Synchronize folders between source and destination."""
     if not os.path.exists(destination):
         os.makedirs(destination)
         log_message(f"Created directory: {destination}", log_widget)
 
-    for item in os.listdir(source):
+    source_items = set(os.listdir(source))
+    destination_items = set(os.listdir(destination))
+
+    for item in source_items.union(destination_items):
         source_item = os.path.join(source, item)
         destination_item = os.path.join(destination, item)
 
-        if os.path.isdir(source_item):
-            sync_folders(source_item, destination_item, log_widget, snapshot_data)
-        else:
-            if should_copy_file(source_item, snapshot_data):
-                try:
-                    if not os.path.exists(os.path.dirname(destination_item)):
-                        os.makedirs(os.path.dirname(destination_item))
-                    log_message(f"Copying: {source_item} to {destination_item}", log_widget)
-                    shutil.copy2(source_item, destination_item)
-                    update_snapshot(source_item, snapshot_data)
-                    log_message(f"Finished copying: {source_item} to {destination_item}", log_widget)
-                except Exception as e:
-                    log_message(f"Error copying {source_item}: {str(e)}", log_widget)
+        if item in source_items and os.path.isdir(source_item):
+            sync_folders(source_item, destination_item, snapshot_data, log_widget)
+        elif item in source_items and os.path.isfile(source_item):
+            sync_file(source_item, destination_item, snapshot_data, log_widget)
+        elif item in destination_items and os.path.isfile(destination_item):
+            # Handle files present in destination but not in source
+            if item not in source_items:
+                log_message(f"New file in destination: {destination_item}", log_widget)
+                # Decide on copying back to source or another action
+        elif item in destination_items and os.path.isdir(destination_item):
+            # Handle new directories in destination
+            log_message(f"New directory in destination: {destination_item}", log_widget)
+            # Decide on action to sync back to source
 
 def start_sync_thread():
     thread = threading.Thread(target=start_sync)
     thread.start()
 
+
+# Main sync logic
 def start_sync():
     config = load_json(CONFIG_FILE)
     snapshot_data = load_json(SNAPSHOT_FILE)
@@ -88,7 +107,7 @@ def start_sync():
     for source in config['source_folders']:
         folder_name = os.path.basename(source)
         destination_path = os.path.join(destination, folder_name)
-        sync_folders(source, destination_path, log_widget, snapshot_data)
+        sync_folders(source, destination_path, snapshot_data, log_widget)
 
     save_json(snapshot_data, SNAPSHOT_FILE)
     messagebox.showinfo("Sync Complete", "Folders have been synchronized successfully.")
