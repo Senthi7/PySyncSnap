@@ -67,9 +67,7 @@ def sync_folders(source, destination, log_widget, snapshot_data):
                     log_message(f"Finished copying: {source_item} to {destination_item}", log_widget)
                 except Exception as e:
                     log_message(f"Error copying {source_item}: {str(e)}", log_widget)
-            else:
-                log_message(f"Skipped (identical): {source_item}", log_widget, log_to_file=False)
-                
+
 def start_sync_thread():
     thread = threading.Thread(target=start_sync)
     thread.start()
