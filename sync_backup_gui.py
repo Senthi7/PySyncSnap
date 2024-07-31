@@ -1,14 +1,13 @@
 import os
-import shutil
 import json
-import time
+import shutil
 import tkinter as tk
 from tkinter import filedialog, messagebox
 import threading
 
 CONFIG_FILE = 'backup_config.json'
-LOG_FILE = 'log.txt'
 SNAPSHOT_FILE = 'snapshot.json'
+LOG_FILE = 'log.txt'
 
 def load_json(file_path):
     if os.path.exists(file_path):
@@ -20,18 +19,19 @@ def save_json(data, file_path):
     with open(file_path, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4)
 
-def log_message(message, log_widget):
+def log_message(message, log_widget, log_to_file=True):
     print(message)
     log_widget.insert(tk.END, message + '\n')
     log_widget.yview(tk.END)
-    with open(LOG_FILE, 'a', encoding='utf-8') as file:
-        file.write(message + '\n')
+    if log_to_file:
+        with open(LOG_FILE, 'a', encoding='utf-8') as file:
+            file.write(message + '\n')
 
 def should_copy_file(source_item, snapshot_data):
     """Determine if a file should be copied based on the snapshot data."""
+    source_stat = os.stat(source_item)
     if source_item not in snapshot_data:
         return True
-    source_stat = os.stat(source_item)
     snapshot_stat = snapshot_data[source_item]
     if source_stat.st_size != snapshot_stat['size'] or source_stat.st_mtime > snapshot_stat['mtime']:
         return True
@@ -54,7 +54,6 @@ def sync_folders(source, destination, log_widget, snapshot_data):
         source_item = os.path.join(source, item)
         destination_item = os.path.join(destination, item)
 
-        log_message(f"Processing item: {source_item}", log_widget)
         if os.path.isdir(source_item):
             sync_folders(source_item, destination_item, log_widget, snapshot_data)
         else:
@@ -69,8 +68,8 @@ def sync_folders(source, destination, log_widget, snapshot_data):
                 except Exception as e:
                     log_message(f"Error copying {source_item}: {str(e)}", log_widget)
             else:
-                log_message(f"Skipped (identical): {source_item}", log_widget)
-
+                log_message(f"Skipped (identical): {source_item}", log_widget, log_to_file=False)
+                
 def start_sync_thread():
     thread = threading.Thread(target=start_sync)
     thread.start()

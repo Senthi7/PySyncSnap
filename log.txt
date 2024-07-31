@@ -1,0 +1,1092 @@
+Processing item: F:/APPS\INVOICEM
+Processing item: F:/APPS\INVOICEM\de
+Processing item: F:/APPS\INVOICEM\de\ShakthiMigraDoc.resources.dll
+Skipped (identical): F:/APPS\INVOICEM\de\ShakthiMigraDoc.resources.dll
+Processing item: F:/APPS\INVOICEM\images
+Processing item: F:/APPS\INVOICEM\images\noimage.jpg
+Skipped (identical): F:/APPS\INVOICEM\images\noimage.jpg
+Processing item: F:/APPS\INVOICEM\images\TemplateInvoice2022.jpg
+Skipped (identical): F:/APPS\INVOICEM\images\TemplateInvoice2022.jpg
+Processing item: F:/APPS\INVOICEM\Interop.WIA.dll
+Skipped (identical): F:/APPS\INVOICEM\Interop.WIA.dll
+Processing item: F:/APPS\INVOICEM\invoicem.config
+Skipped (identical): F:/APPS\INVOICEM\invoicem.config
+Processing item: F:/APPS\INVOICEM\invoicem.config.bak
+Skipped (identical): F:/APPS\INVOICEM\invoicem.config.bak
+Processing item: F:/APPS\INVOICEM\Invoicem.deps.json
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.deps.json
+Processing item: F:/APPS\INVOICEM\Invoicem.dll
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.dll
+Processing item: F:/APPS\INVOICEM\Invoicem.dll.config
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.dll.config
+Processing item: F:/APPS\INVOICEM\Invoicem.dll.config.bak
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.dll.config.bak
+Processing item: F:/APPS\INVOICEM\Invoicem.exe
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\AutoLaunchProtocolsComponent
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\CertificateRevocation
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Crashpad
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Crashpad\attachments
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Crashpad\metadata
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Crashpad\metadata
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Crashpad\reports
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Crashpad\settings.dat
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Crashpad\settings.dat
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Crashpad\throttle_store.dat
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Crashpad\throttle_store.dat
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\AutofillStrikeDatabase
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\AutofillStrikeDatabase\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\AutofillStrikeDatabase\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\AutofillStrikeDatabase\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\AutofillStrikeDatabase\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\AutofillStrikeDatabase\LOG.old
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\AutofillStrikeDatabase\LOG.old
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\blob_storage
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\blob_storage\ae4ff061-e9a5-4b87-b1cf-1c2a762617c7
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\BudgetDatabase
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\BudgetDatabase\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\BudgetDatabase\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\BudgetDatabase\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\BudgetDatabase\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\BudgetDatabase\LOG.old
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\BudgetDatabase\LOG.old
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\data_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\data_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\data_1
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\data_1
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\data_2
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\data_2
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\data_3
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\data_3
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000001
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000001
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000002
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000002
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000003
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000003
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000004
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000004
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000005
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000005
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000006
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000006
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000007
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000007
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000008
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000008
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000009
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000009
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00000a
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00000a
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00000b
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00000b
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00000c
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00000c
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00000d
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00000d
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00000e
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00000e
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000010
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000010
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000011
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000011
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000012
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000012
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000013
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000013
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000014
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000014
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000015
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000015
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000016
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000016
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000017
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000017
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000018
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000018
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000019
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000019
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00001a
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00001a
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00001b
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00001b
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00001c
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00001c
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00001d
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00001d
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00001e
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00001e
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00001f
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00001f
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000020
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000020
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000021
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000021
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000022
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000022
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000023
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000023
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000024
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000024
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000025
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000025
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000026
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000026
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000027
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000027
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000028
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000028
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000029
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000029
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00002a
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00002a
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00002b
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00002b
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00002c
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00002c
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00002d
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00002d
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00002e
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00002e
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00002f
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00002f
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000030
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000030
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000031
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000031
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000032
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000032
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000033
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000033
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000034
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000034
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000035
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000035
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000036
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000036
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000037
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000037
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000038
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000038
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000039
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000039
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00003a
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00003a
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00003b
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00003b
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00003c
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00003c
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00003d
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00003d
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00003e
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00003e
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00003f
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00003f
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000040
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000040
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000041
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000041
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000042
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000042
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000043
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000043
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000044
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000044
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000045
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000045
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000046
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000046
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000047
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000047
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000048
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000048
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000049
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000049
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00004a
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00004a
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00004b
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00004b
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00004c
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00004c
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00004d
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00004d
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00004e
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00004e
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00004f
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00004f
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000050
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000050
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000051
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000051
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000052
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000052
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000053
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000053
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000054
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000054
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000055
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000055
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000056
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000056
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000057
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000057
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000058
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000058
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000059
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000059
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00005a
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00005a
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00005b
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00005b
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00005c
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00005c
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00005d
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00005d
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00005e
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00005e
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00005f
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_00005f
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000060
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000060
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000061
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000061
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000062
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000062
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000063
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000063
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000064
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000064
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000065
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000065
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000066
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\f_000066
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\index
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Cache\Cache_Data\index
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\0061269b54034633_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\0061269b54034633_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\04d1934e58c441ea_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\04d1934e58c441ea_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\0537be61afe8a3f4_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\0537be61afe8a3f4_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\06a84c20953f709d_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\06a84c20953f709d_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\08d50dc6883df4a5_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\08d50dc6883df4a5_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\08da6d274fc02e44_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\08da6d274fc02e44_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\09882e41d5218d64_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\09882e41d5218d64_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\09952afac025b231_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\09952afac025b231_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\0d4413c3a98d56ed_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\0d4413c3a98d56ed_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\11ec7b0000fc1a93_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\11ec7b0000fc1a93_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\14848ec66abb6a37_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\14848ec66abb6a37_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\1632bb834e9b2ee7_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\1632bb834e9b2ee7_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\167f92bae9933364_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\167f92bae9933364_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\16aa7876e64c8d81_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\16aa7876e64c8d81_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\1726faa43ac01eab_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\1726faa43ac01eab_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\199869a7f62c5b2b_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\199869a7f62c5b2b_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\20d21964af5ab3d5_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\20d21964af5ab3d5_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\23e415e0e6ccafd3_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\23e415e0e6ccafd3_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\292a2ce7a2b425e7_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\292a2ce7a2b425e7_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\2b41ffe77bac3f06_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\2b41ffe77bac3f06_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\2c4a177dc3d47ed3_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\2c4a177dc3d47ed3_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\2e85e4f3f9ad3687_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\2e85e4f3f9ad3687_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\3112486117be92ae_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\3112486117be92ae_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\335e69ddec2b9ac6_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\335e69ddec2b9ac6_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\3674787521c2ea09_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\3674787521c2ea09_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\36f95c69ff1acaa8_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\36f95c69ff1acaa8_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\3784ced888ccaaaf_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\3784ced888ccaaaf_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\3891ad0081ed4c97_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\3891ad0081ed4c97_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\39220b265d8a957c_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\39220b265d8a957c_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\3aa4497baa68235c_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\3aa4497baa68235c_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\3b529717c46ac600_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\3b529717c46ac600_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\46fb5900e9dbc9a4_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\46fb5900e9dbc9a4_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\47dcd8975e21f410_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\47dcd8975e21f410_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\4823fe2f17866ad5_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\4823fe2f17866ad5_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\509e31509a466cc2_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\509e31509a466cc2_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\50fe35eab7b167ff_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\50fe35eab7b167ff_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\52c44d9e72d1ccb7_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\52c44d9e72d1ccb7_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\544ac8ddad746acd_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\544ac8ddad746acd_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\55c67c850ea98b7b_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\55c67c850ea98b7b_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\55e62358c4388321_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\55e62358c4388321_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\5633fef14d25e07e_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\5633fef14d25e07e_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\56eb62c3206e8518_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\56eb62c3206e8518_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\587836b00a402875_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\587836b00a402875_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\5acbb03799702160_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\5acbb03799702160_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\5c1e1671c543cffa_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\5c1e1671c543cffa_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\5cf7cb19f2da12d6_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\5cf7cb19f2da12d6_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\5f084c0a12298d1c_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\5f084c0a12298d1c_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\63d658582a8c09b9_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\63d658582a8c09b9_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\6541f3de5621d9a3_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\6541f3de5621d9a3_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\6640064e8791f6a4_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\6640064e8791f6a4_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\66f95107a833b518_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\66f95107a833b518_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\67f3d158d9ea8789_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\67f3d158d9ea8789_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\6ca2c164685bfead_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\6ca2c164685bfead_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\6fe86694c457e0bc_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\6fe86694c457e0bc_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\70cfb6775cd39067_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\70cfb6775cd39067_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\71e785840173940a_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\71e785840173940a_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\75cf65d8b2181def_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\75cf65d8b2181def_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\7751a7decab5cdf2_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\7751a7decab5cdf2_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\7b479f9991f05306_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\7b479f9991f05306_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\7bf2bf7ab12adf4a_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\7bf2bf7ab12adf4a_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\7e9e404fe8ad0e53_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\7e9e404fe8ad0e53_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\7f21f7a9b9a8f0bd_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\7f21f7a9b9a8f0bd_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\7f34ab1b3f377f6b_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\7f34ab1b3f377f6b_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\817dffb9d4bd9365_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\817dffb9d4bd9365_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\834e1d37a80f98d4_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\834e1d37a80f98d4_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\85fd15265d50f1c3_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\85fd15265d50f1c3_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\89364f64d77e8615_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\89364f64d77e8615_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\89937dbdce34e1b7_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\89937dbdce34e1b7_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\899f5f555e2209e6_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\899f5f555e2209e6_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\8a82ca8694eeb610_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\8a82ca8694eeb610_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\8aa05b2bea09f81e_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\8aa05b2bea09f81e_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\8c1463383c977ead_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\8c1463383c977ead_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\8cf38123f03aa4ab_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\8cf38123f03aa4ab_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\8d8d493e4e324f2f_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\8d8d493e4e324f2f_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\8ee0a2fdba183517_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\8ee0a2fdba183517_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\8ff83f789895018b_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\8ff83f789895018b_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\9009f48ad1059e78_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\9009f48ad1059e78_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\90b437e2e6c32bb4_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\90b437e2e6c32bb4_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\92ea9309a2632e9f_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\92ea9309a2632e9f_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\936b79bb62fdaaae_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\936b79bb62fdaaae_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\949dda4b0e7cb042_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\949dda4b0e7cb042_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\958fc6b82aa101a0_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\958fc6b82aa101a0_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\963f3853a4967ae3_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\963f3853a4967ae3_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\9892fe656edfb84c_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\9892fe656edfb84c_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\9d1347ac88d95e08_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\9d1347ac88d95e08_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\9fcc06beca2dcecb_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\9fcc06beca2dcecb_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\a036c805bded7c7f_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\a036c805bded7c7f_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\a7d02d6793e8b34b_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\a7d02d6793e8b34b_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\a83256dcc9a29d23_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\a83256dcc9a29d23_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\aa3e7331008ebe89_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\aa3e7331008ebe89_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\ab2b9cf90d15f467_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\ab2b9cf90d15f467_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\abdb29974cae529b_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\abdb29974cae529b_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\ac93f8ac52792e25_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\ac93f8ac52792e25_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\acc8bbad3966f420_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\acc8bbad3966f420_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\adbe238fd75c647c_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\adbe238fd75c647c_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\add219d977d0058b_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\add219d977d0058b_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\b01984e28a625326_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\b01984e28a625326_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\b03cf36ef290586f_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\b03cf36ef290586f_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\b13bdf5777234e0e_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\b13bdf5777234e0e_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\b13f57ac955badaa_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\b13f57ac955badaa_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\b382dec94369b2d8_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\b382dec94369b2d8_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\b7ac77aed015ac98_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\b7ac77aed015ac98_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\bd63e50cd2048227_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\bd63e50cd2048227_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\c10fb239a3f9b46f_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\c10fb239a3f9b46f_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\c1146881ef12ad1e_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\c1146881ef12ad1e_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\c2bcad264ae92b79_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\c2bcad264ae92b79_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\c4cc48cc7e538965_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\c4cc48cc7e538965_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\cab4c49b3f89f752_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\cab4c49b3f89f752_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\d2e37c21610ff1e9_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\d2e37c21610ff1e9_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\d356a8659e6d749e_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\d356a8659e6d749e_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\d3f7d622081c66ab_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\d3f7d622081c66ab_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\d5bc7118e6bc897f_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\d5bc7118e6bc897f_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\d5f71b2722776b72_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\d5f71b2722776b72_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\d60bdac6e601e0db_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\d60bdac6e601e0db_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\d64dd717961a9118_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\d64dd717961a9118_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\d6657ec2e3766d4d_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\d6657ec2e3766d4d_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\d66af690637f4114_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\d66af690637f4114_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\d83934b1212f0ad3_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\d83934b1212f0ad3_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\dab07356ed63ee15_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\dab07356ed63ee15_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\dac6f40c876960e9_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\dac6f40c876960e9_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\db94732bcbf20aa2_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\db94732bcbf20aa2_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\dc6b258915890237_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\dc6b258915890237_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\e0ec5f8452b5c265_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\e0ec5f8452b5c265_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\e1adf5be98ca0896_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\e1adf5be98ca0896_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\e77048ca1c43cbb5_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\e77048ca1c43cbb5_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\edae69fd3898c60b_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\edae69fd3898c60b_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\eeea11f8caca2bf7_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\eeea11f8caca2bf7_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\f0fe0ec48ac7ac6c_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\f0fe0ec48ac7ac6c_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\f26b8abbeb32e962_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\f26b8abbeb32e962_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\f35e1099e3f28582_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\f35e1099e3f28582_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\fa0e550569a6b1b7_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\fa0e550569a6b1b7_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\faaf9242a1bbafd0_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\faaf9242a1bbafd0_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\fabd20cbcca58124_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\fabd20cbcca58124_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\fb4ce69d7d2b4088_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\fb4ce69d7d2b4088_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\fcd9d985c498a3b5_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\fcd9d985c498a3b5_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\index
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\index
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\index-dir
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\index-dir\the-real-index
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\js\index-dir\the-real-index
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\wasm
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\wasm\index
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\wasm\index
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\wasm\index-dir
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\wasm\index-dir\the-real-index
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Code Cache\wasm\index-dir\the-real-index
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\commerce_subscription_db
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\commerce_subscription_db\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\commerce_subscription_db\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\commerce_subscription_db\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\commerce_subscription_db\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\commerce_subscription_db\LOG.old
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\commerce_subscription_db\LOG.old
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\databases
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\databases\Databases.db
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\databases\Databases.db
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\databases\Databases.db-journal
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\databases\Databases.db-journal
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\DawnCache
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\DawnCache\data_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\DawnCache\data_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\DawnCache\data_1
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\DawnCache\data_1
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\DawnCache\data_2
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\DawnCache\data_2
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\DawnCache\data_3
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\DawnCache\data_3
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\DawnCache\index
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\DawnCache\index
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\DIPS
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\DIPS
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\DIPS-journal
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\DIPS-journal
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Download Service
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Download Service\EntryDB
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Download Service\EntryDB\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Download Service\EntryDB\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Download Service\EntryDB\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Download Service\EntryDB\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Download Service\Files
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\EdgeEDrop
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\EdgeEDrop\EdgeEDropSQLite.db
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\EdgeEDrop\EdgeEDropSQLite.db
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\EdgeEDrop\EdgeEDropSQLite.db-journal
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\EdgeEDrop\EdgeEDropSQLite.db-journal
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Rules
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Rules\000003.log
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Rules\000003.log
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Rules\CURRENT
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Rules\CURRENT
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Rules\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Rules\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Rules\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Rules\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Rules\MANIFEST-000001
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Rules\MANIFEST-000001
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Scripts
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Scripts\000003.log
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Scripts\000003.log
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Scripts\CURRENT
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Scripts\CURRENT
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Scripts\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Scripts\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Scripts\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Scripts\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Scripts\LOG.old
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Scripts\LOG.old
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Scripts\MANIFEST-000001
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension Scripts\MANIFEST-000001
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension State
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension State\000003.log
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension State\000003.log
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension State\CURRENT
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension State\CURRENT
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension State\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension State\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension State\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension State\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension State\LOG.old
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension State\LOG.old
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension State\MANIFEST-000001
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Extension State\MANIFEST-000001
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\ExtensionActivityComp
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\ExtensionActivityComp
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\ExtensionActivityComp-journal
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\ExtensionActivityComp-journal
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\ExtensionActivityEdge
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\ExtensionActivityEdge
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\ExtensionActivityEdge-journal
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\ExtensionActivityEdge-journal
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Favicons
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Favicons
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Favicons-journal
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Favicons-journal
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Feature Engagement Tracker
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Feature Engagement Tracker\AvailabilityDB
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Feature Engagement Tracker\AvailabilityDB\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Feature Engagement Tracker\AvailabilityDB\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Feature Engagement Tracker\AvailabilityDB\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Feature Engagement Tracker\AvailabilityDB\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Feature Engagement Tracker\AvailabilityDB\LOG.old
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Feature Engagement Tracker\AvailabilityDB\LOG.old
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Feature Engagement Tracker\EventDB
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Feature Engagement Tracker\EventDB\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Feature Engagement Tracker\EventDB\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Feature Engagement Tracker\EventDB\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Feature Engagement Tracker\EventDB\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Feature Engagement Tracker\EventDB\LOG.old
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Feature Engagement Tracker\EventDB\LOG.old
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\GPUCache
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\GPUCache\data_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\GPUCache\data_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\GPUCache\data_1
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\GPUCache\data_1
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\GPUCache\data_2
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\GPUCache\data_2
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\GPUCache\data_3
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\GPUCache\data_3
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\GPUCache\index
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\GPUCache\index
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\heavy_ad_intervention_opt_out.db
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\heavy_ad_intervention_opt_out.db
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\heavy_ad_intervention_opt_out.db-journal
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\heavy_ad_intervention_opt_out.db-journal
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\History
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\History
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\History-journal
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\History-journal
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Local Storage
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Local Storage\leveldb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Local Storage\leveldb\000003.log
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Local Storage\leveldb\000003.log
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Local Storage\leveldb\CURRENT
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Local Storage\leveldb\CURRENT
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Local Storage\leveldb\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Local Storage\leveldb\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Local Storage\leveldb\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Local Storage\leveldb\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Local Storage\leveldb\LOG.old
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Local Storage\leveldb\LOG.old
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Local Storage\leveldb\MANIFEST-000001
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Local Storage\leveldb\MANIFEST-000001
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\LOG.old
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\LOG.old
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Login Data
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Login Data
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Login Data-journal
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Login Data-journal
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network\Cookies
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network\Cookies
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network\Cookies-journal
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network\Cookies-journal
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network\Network Persistent State
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network\Network Persistent State
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network\NetworkDataMigrated
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network\NetworkDataMigrated
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network\Reporting and NEL
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network\Reporting and NEL
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network\Reporting and NEL-journal
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network\Reporting and NEL-journal
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network\SCT Auditing Pending Reports
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network\SCT Auditing Pending Reports
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network\Sdch Dictionaries
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network\Sdch Dictionaries
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network\TransportSecurity
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network\TransportSecurity
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network Action Predictor
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network Action Predictor
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network Action Predictor-journal
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Network Action Predictor-journal
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\optimization_guide_hint_cache_store
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\optimization_guide_hint_cache_store\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\optimization_guide_hint_cache_store\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\optimization_guide_hint_cache_store\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\optimization_guide_hint_cache_store\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\optimization_guide_hint_cache_store\LOG.old
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\optimization_guide_hint_cache_store\LOG.old
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\optimization_guide_model_metadata_store
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\optimization_guide_model_metadata_store\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\optimization_guide_model_metadata_store\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\optimization_guide_model_metadata_store\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\optimization_guide_model_metadata_store\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\optimization_guide_model_metadata_store\LOG.old
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\optimization_guide_model_metadata_store\LOG.old
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Preferences
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Preferences
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\PreferredApps
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\PreferredApps
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\README
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\README
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Safe Browsing Network
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Safe Browsing Network\NetworkDataMigrated
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Safe Browsing Network\NetworkDataMigrated
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Safe Browsing Network\Safe Browsing Cookies
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Safe Browsing Network\Safe Browsing Cookies
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Safe Browsing Network\Safe Browsing Cookies-journal
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Safe Browsing Network\Safe Browsing Cookies-journal
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Secure Preferences
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Secure Preferences
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Segmentation Platform
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Segmentation Platform\SegmentInfoDB
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Segmentation Platform\SegmentInfoDB\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Segmentation Platform\SegmentInfoDB\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Segmentation Platform\SegmentInfoDB\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Segmentation Platform\SegmentInfoDB\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Segmentation Platform\SignalDB
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Segmentation Platform\SignalDB\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Segmentation Platform\SignalDB\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Segmentation Platform\SignalDB\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Segmentation Platform\SignalDB\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Segmentation Platform\SignalStorageConfigDB
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Segmentation Platform\SignalStorageConfigDB\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Segmentation Platform\SignalStorageConfigDB\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Segmentation Platform\SignalStorageConfigDB\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Segmentation Platform\SignalStorageConfigDB\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Session Storage
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Session Storage\000003.log
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Session Storage\000003.log
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Session Storage\CURRENT
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Session Storage\CURRENT
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Session Storage\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Session Storage\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Session Storage\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Session Storage\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Session Storage\LOG.old
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Session Storage\LOG.old
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Session Storage\MANIFEST-000001
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Session Storage\MANIFEST-000001
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Sessions
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\000003.log
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\000003.log
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\CURRENT
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\CURRENT
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\LOG.old
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\LOG.old
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\MANIFEST-000001
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\MANIFEST-000001
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\metadata
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\metadata\000003.log
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\metadata\000003.log
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\metadata\CURRENT
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\metadata\CURRENT
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\metadata\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\metadata\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\metadata\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\metadata\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\metadata\LOG.old
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\metadata\LOG.old
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\metadata\MANIFEST-000001
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\shared_proto_db\metadata\MANIFEST-000001
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Site Characteristics Database
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Site Characteristics Database\000003.log
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Site Characteristics Database\000003.log
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Site Characteristics Database\CURRENT
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Site Characteristics Database\CURRENT
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Site Characteristics Database\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Site Characteristics Database\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Site Characteristics Database\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Site Characteristics Database\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Site Characteristics Database\LOG.old
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Site Characteristics Database\LOG.old
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Site Characteristics Database\MANIFEST-000001
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Site Characteristics Database\MANIFEST-000001
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Sync Data
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Sync Data\LevelDB
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Sync Data\LevelDB\000003.log
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Sync Data\LevelDB\000003.log
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Sync Data\LevelDB\CURRENT
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Sync Data\LevelDB\CURRENT
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Sync Data\LevelDB\LOCK
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Sync Data\LevelDB\LOCK
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Sync Data\LevelDB\LOG
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Sync Data\LevelDB\LOG
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Sync Data\LevelDB\LOG.old
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Sync Data\LevelDB\LOG.old
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Sync Data\LevelDB\MANIFEST-000001
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Sync Data\LevelDB\MANIFEST-000001
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Top Sites
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Top Sites
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Top Sites-journal
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Top Sites-journal
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Visited Links
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Visited Links
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Vpn Tokens
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Vpn Tokens
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Vpn Tokens-journal
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Vpn Tokens-journal
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Web Data
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Web Data
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Web Data-journal
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\Web Data-journal
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\WebStorage
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\WebStorage\QuotaManager
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\WebStorage\QuotaManager
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\WebStorage\QuotaManager-journal
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Default\WebStorage\QuotaManager-journal
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache\data_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache\data_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache\data_1
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache\data_1
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache\data_2
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache\data_2
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache\data_3
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache\data_3
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache\f_000001
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache\f_000001
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache\f_000002
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache\f_000002
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache\f_000003
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache\f_000003
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache\f_000004
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache\f_000004
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache\f_000005
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache\f_000005
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache\index
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\GrShaderCache\index
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-as.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-as.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-be.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-be.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-bg.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-bg.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-bn.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-bn.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-cu.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-cu.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-cy.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-cy.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-da.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-da.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-de-1901.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-de-1901.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-de-1996.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-de-1996.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-de-ch-1901.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-de-ch-1901.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-en-gb.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-en-gb.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-en-us.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-en-us.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-es.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-es.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-et.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-et.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-eu.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-eu.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-fr.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-fr.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-ga.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-ga.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-gu.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-gu.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-hi.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-hi.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-hr.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-hr.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-hu.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-hu.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-hy.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-hy.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-kn.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-kn.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-la.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-la.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-ml.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-ml.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-mn-cyrl.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-mn-cyrl.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-mr.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-mr.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-nb.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-nb.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-nn.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-nn.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-or.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-or.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-pa.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-pa.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-pt.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-pt.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-sl.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-sl.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-ta.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-ta.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-te.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-te.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-tk.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-tk.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-und-ethi.hyb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\hyph-und-ethi.hyb
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\manifest.fingerprint
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\manifest.fingerprint
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\manifest.json
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\manifest.json
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\_metadata
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\_metadata\verified_contents.json
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\hyphen-data\101.0.4906.0\_metadata\verified_contents.json
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Last Version
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Last Version
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Local State
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Local State
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\OriginTrials
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\persisted_first_party_sets.json
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\persisted_first_party_sets.json
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\PKIMetadata
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\ShaderCache
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\ShaderCache\data_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\ShaderCache\data_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\ShaderCache\data_1
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\ShaderCache\data_1
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\ShaderCache\data_2
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\ShaderCache\data_2
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\ShaderCache\data_3
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\ShaderCache\data_3
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\ShaderCache\index
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\ShaderCache\index
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\local
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\local\uriCache
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\local\uriCache
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\local\uriCache_
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\local\uriCache_
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData\customSettings
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData\customSettings
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData\customSettings_F95BA787499AB4FA9EFFF472CE383A14
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData\customSettings_F95BA787499AB4FA9EFFF472CE383A14
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData\customSynchronousLookupUris
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData\customSynchronousLookupUris
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData\customSynchronousLookupUris_0
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData\customSynchronousLookupUris_0
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData\edgeSettings
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData\edgeSettings
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData\edgeSettings_2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData\edgeSettings_2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData\synchronousLookupUris
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData\synchronousLookupUris
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData\synchronousLookupUris_638251096650232186
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData\synchronousLookupUris_638251096650232186
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData\topTraffic
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData\topTraffic
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData\topTraffic_638004170464094982
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\SmartScreen\RemoteData\topTraffic_638004170464094982
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Speech Recognition
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Subresource Filter
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Subresource Filter\Unindexed Rules
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Trust Protection Lists
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Variations
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\Variations
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\WidevineCdm
+Processing item: F:/APPS\INVOICEM\Invoicem.exe.WebView2\EBWebView\ZxcvbnData
+Processing item: F:/APPS\INVOICEM\Invoicem.pdb
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.pdb
+Processing item: F:/APPS\INVOICEM\Invoicem.runtimeconfig.json
+Skipped (identical): F:/APPS\INVOICEM\Invoicem.runtimeconfig.json
+Processing item: F:/APPS\INVOICEM\Microsoft.Web.WebView2.Core.dll
+Skipped (identical): F:/APPS\INVOICEM\Microsoft.Web.WebView2.Core.dll
+Processing item: F:/APPS\INVOICEM\Microsoft.Web.WebView2.WinForms.dll
+Skipped (identical): F:/APPS\INVOICEM\Microsoft.Web.WebView2.WinForms.dll
+Processing item: F:/APPS\INVOICEM\Microsoft.Web.WebView2.Wpf.dll
+Skipped (identical): F:/APPS\INVOICEM\Microsoft.Web.WebView2.Wpf.dll
+Processing item: F:/APPS\INVOICEM\MySqlBackupNet.MySqlConnector.dll
+Skipped (identical): F:/APPS\INVOICEM\MySqlBackupNet.MySqlConnector.dll
+Processing item: F:/APPS\INVOICEM\MySqlConnector.dll
+Skipped (identical): F:/APPS\INVOICEM\MySqlConnector.dll
+Processing item: F:/APPS\INVOICEM\ref
+Processing item: F:/APPS\INVOICEM\Renci.SshNet.dll
+Skipped (identical): F:/APPS\INVOICEM\Renci.SshNet.dll
+Processing item: F:/APPS\INVOICEM\RtfPipe.dll
+Skipped (identical): F:/APPS\INVOICEM\RtfPipe.dll
+Processing item: F:/APPS\INVOICEM\runtimes
+Processing item: F:/APPS\INVOICEM\runtimes\win-arm64
+Processing item: F:/APPS\INVOICEM\runtimes\win-arm64\native
+Processing item: F:/APPS\INVOICEM\runtimes\win-arm64\native\WebView2Loader.dll
+Skipped (identical): F:/APPS\INVOICEM\runtimes\win-arm64\native\WebView2Loader.dll
+Processing item: F:/APPS\INVOICEM\runtimes\win-x64
+Processing item: F:/APPS\INVOICEM\runtimes\win-x64\native
+Processing item: F:/APPS\INVOICEM\runtimes\win-x64\native\WebView2Loader.dll
+Skipped (identical): F:/APPS\INVOICEM\runtimes\win-x64\native\WebView2Loader.dll
+Processing item: F:/APPS\INVOICEM\runtimes\win-x86
+Processing item: F:/APPS\INVOICEM\runtimes\win-x86\native
+Processing item: F:/APPS\INVOICEM\runtimes\win-x86\native\WebView2Loader.dll
+Skipped (identical): F:/APPS\INVOICEM\runtimes\win-x86\native\WebView2Loader.dll
+Processing item: F:/APPS\INVOICEM\ShakthiMigraDoc.dll
+Skipped (identical): F:/APPS\INVOICEM\ShakthiMigraDoc.dll
+Processing item: F:/APPS\INVOICEM\ShakthiMigraDoc.pdb
+Skipped (identical): F:/APPS\INVOICEM\ShakthiMigraDoc.pdb
+Processing item: F:/APPS\INVOICEM\SharpexLib.dll
+Skipped (identical): F:/APPS\INVOICEM\SharpexLib.dll
+Processing item: F:/APPS\INVOICEM\SharpexLib.pdb
+Skipped (identical): F:/APPS\INVOICEM\SharpexLib.pdb
+Processing item: F:/APPS\INVOICEM\SshNet.Security.Cryptography.dll
+Skipped (identical): F:/APPS\INVOICEM\SshNet.Security.Cryptography.dll
+Processing item: F:/APPS\KADAVU
+Processing item: F:/APPS\KADAVU\db.config
+Skipped (identical): F:/APPS\KADAVU\db.config
+Processing item: F:/APPS\KADAVU\Kadavus.exe
+Skipped (identical): F:/APPS\KADAVU\Kadavus.exe
+Processing item: F:/APPS\KADAVU\Kadavus.exe.config
+Skipped (identical): F:/APPS\KADAVU\Kadavus.exe.config
+Processing item: F:/APPS\KADAVU\Kadavus.pdb
+Skipped (identical): F:/APPS\KADAVU\Kadavus.pdb
+Processing item: F:/APPS\KADAVU\MySql.Data.dll
+Skipped (identical): F:/APPS\KADAVU\MySql.Data.dll
+Processing item: F:/APPS\KADAVU\MySqlConnector.dll
+Skipped (identical): F:/APPS\KADAVU\MySqlConnector.dll
+Processing item: F:/APPS\KADAVU\MySqlConnector.xml
+Skipped (identical): F:/APPS\KADAVU\MySqlConnector.xml
+Processing item: F:/APPS\KADAVU\System.Buffers.dll
+Skipped (identical): F:/APPS\KADAVU\System.Buffers.dll
+Processing item: F:/APPS\KADAVU\System.Buffers.xml
+Skipped (identical): F:/APPS\KADAVU\System.Buffers.xml
+Processing item: F:/APPS\KADAVU\System.Diagnostics.DiagnosticSource.dll
+Skipped (identical): F:/APPS\KADAVU\System.Diagnostics.DiagnosticSource.dll
+Processing item: F:/APPS\KADAVU\System.Diagnostics.DiagnosticSource.xml
+Skipped (identical): F:/APPS\KADAVU\System.Diagnostics.DiagnosticSource.xml
+Processing item: F:/APPS\KADAVU\System.Memory.dll
+Skipped (identical): F:/APPS\KADAVU\System.Memory.dll
+Processing item: F:/APPS\KADAVU\System.Memory.xml
+Skipped (identical): F:/APPS\KADAVU\System.Memory.xml
+Processing item: F:/APPS\KADAVU\System.Numerics.Vectors.dll
+Skipped (identical): F:/APPS\KADAVU\System.Numerics.Vectors.dll
+Processing item: F:/APPS\KADAVU\System.Numerics.Vectors.xml
+Skipped (identical): F:/APPS\KADAVU\System.Numerics.Vectors.xml
+Processing item: F:/APPS\KADAVU\System.Runtime.CompilerServices.Unsafe.dll
+Skipped (identical): F:/APPS\KADAVU\System.Runtime.CompilerServices.Unsafe.dll
+Processing item: F:/APPS\KADAVU\System.Runtime.CompilerServices.Unsafe.xml
+Skipped (identical): F:/APPS\KADAVU\System.Runtime.CompilerServices.Unsafe.xml
+Processing item: F:/APPS\KADAVU\System.Threading.Tasks.Extensions.dll
+Skipped (identical): F:/APPS\KADAVU\System.Threading.Tasks.Extensions.dll
+Processing item: F:/APPS\KADAVU\System.Threading.Tasks.Extensions.xml
+Skipped (identical): F:/APPS\KADAVU\System.Threading.Tasks.Extensions.xml
+Processing item: F:/APPS\TOOLS
