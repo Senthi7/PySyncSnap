@@ -51,7 +51,7 @@ def calculate_file_hash(file_path):
             hash_md5.update(chunk)
     return hash_md5.hexdigest()
     
-def find_renamed_file(source_item, destination_items, snapshot_data):
+def find_renamed_file(source_item, destination, destination_items, snapshot_data):
     """Try to find if a source file has been renamed in the destination."""
     source_hash = calculate_file_hash(source_item)
     for dest_item in destination_items:
@@ -92,7 +92,7 @@ def sync_folders(source, destination, snapshot_data, log_widget):
             sync_folders(source_item, destination_item, snapshot_data, log_widget)
         elif os.path.isfile(source_item):
             if not os.path.exists(destination_item):
-                renamed = find_renamed_file(source_item, destination_items, snapshot_data)
+                renamed = find_renamed_file(source_item, destination, destination_items, snapshot_data)
                 if renamed:
                     log_message(f"Detected rename: {renamed} -> {destination_item}", log_widget)
                     os.rename(renamed, destination_item)
