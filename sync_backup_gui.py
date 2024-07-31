@@ -28,21 +28,6 @@ def log_message(message, log_widget, log_to_file=True):
         with open(LOG_FILE, 'a', encoding='utf-8') as file:
             file.write(message + '\n')
 
-def should_copy_file(source_item, snapshot_data):
-    source_stat = os.stat(source_item)
-    if source_item not in snapshot_data:
-        return True
-    snapshot_stat = snapshot_data[source_item]
-    if source_stat.st_size != snapshot_stat['size'] or source_stat.st_mtime > snapshot_stat['mtime']:
-        return True
-    return False
-
-def update_snapshot(source_item, snapshot_data):
-    source_stat = os.stat(source_item)
-    snapshot_data[source_item] = {
-        'size': source_stat.st_size,
-        'mtime': source_stat.st_mtime
-    }
 def calculate_file_hash(file_path):
     """Calculate the MD5 hash of a file."""
     hash_md5 = hashlib.md5()
@@ -50,7 +35,31 @@ def calculate_file_hash(file_path):
         for chunk in iter(lambda: f.read(4096), b""):
             hash_md5.update(chunk)
     return hash_md5.hexdigest()
-    
+
+def should_copy_file(source_item, snapshot_data):
+    source_stat = os.stat(source_item)
+    source_hash = calculate_file_hash(source_item)
+    if source_item not in snapshot_data:
+        log_message(f"New file detected: {source_item}", log_widget)
+        return True
+    snapshot_stat = snapshot_data[source_item]
+    if source_stat.st_size != snapshot_stat['size'] or source_stat.st_mtime > snapshot_stat['mtime']:
+        log_message(f"File changed (size/mtime) detected: {source_item}", log_widget)
+        return True
+    if 'hash' in snapshot_stat and snapshot_stat['hash'] != source_hash:
+        log_message(f"File content changed detected: {source_item}", log_widget)
+        return True
+    return False
+
+def update_snapshot(source_item, snapshot_data):
+    source_stat = os.stat(source_item)
+    source_hash = calculate_file_hash(source_item)
+    snapshot_data[source_item] = {
+        'size': source_stat.st_size,
+        'mtime': source_stat.st_mtime,
+        'hash': source_hash
+    }
+
 def find_renamed_file(source_item, destination, destination_items, snapshot_data):
     """Try to find if a source file has been renamed in the destination."""
     source_hash = calculate_file_hash(source_item)
@@ -162,6 +171,7 @@ def load_saved_folders():
     for folder in config.get('source_folders', []):
         source_listbox.insert(tk.END, folder)
 
+# GUI setup
 root = tk.Tk()
 root.title("Folder Sync")
 
