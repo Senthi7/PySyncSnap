@@ -40,14 +40,11 @@ def should_copy_file(source_item, snapshot_data):
     source_stat = os.stat(source_item)
     source_hash = calculate_file_hash(source_item)
     if source_item not in snapshot_data:
-        log_message(f"New file detected: {source_item}", log_widget)
         return True
     snapshot_stat = snapshot_data[source_item]
     if source_stat.st_size != snapshot_stat['size'] or source_stat.st_mtime > snapshot_stat['mtime']:
-        log_message(f"File changed (size/mtime) detected: {source_item}", log_widget)
         return True
     if 'hash' in snapshot_stat and snapshot_stat['hash'] != source_hash:
-        log_message(f"File content changed detected: {source_item}", log_widget)
         return True
     return False
 
@@ -188,7 +185,7 @@ def browse_destination():
     if folder_selected:
         destination_folder.set(folder_selected)
         config = load_json(CONFIG_FILE)
-        config['destination'] = folder_selected)
+        config['destination'] = folder_selected
         save_json(config, CONFIG_FILE)
 
 def load_saved_folders():
