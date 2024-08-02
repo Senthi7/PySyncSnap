@@ -1,4 +1,7 @@
 {
-    "source_folders": [],
+    "source_folders": [
+        "F:/APPS",
+        "F:/BUSINESS"
+    ],
     "destination": "O:/"
 }
