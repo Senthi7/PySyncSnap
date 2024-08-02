@@ -111,6 +111,32 @@ def sync_folders(source, destination, snapshot_data, log_widget):
             else:
                 sync_file(source_item, destination_item, snapshot_data, log_widget)
 
+def create_initial_snapshot(source, snapshot_data):
+    """Create an initial snapshot without copying files."""
+    for item in os.listdir(source):
+        source_item = os.path.join(source, item)
+        if os.path.isdir(source_item):
+            create_initial_snapshot(source_item, snapshot_data)
+        else:
+            update_snapshot(source_item, snapshot_data)
+
+def start_snapshot_creation():
+    config = load_json(CONFIG_FILE)
+    snapshot_data = {}
+
+    if 'source_folders' not in config:
+        messagebox.showerror("Error", "No source folders specified in the configuration file.")
+        return
+
+    for source in config['source_folders']:
+        if not os.path.exists(source):
+            messagebox.showerror("Error", f"Source folder not found: {source}")
+            continue
+        create_initial_snapshot(source, snapshot_data)
+
+    save_json(snapshot_data, SNAPSHOT_FILE)
+    messagebox.showinfo("Success", "Initial snapshot created successfully.")
+
 def start_sync_thread():
     thread = threading.Thread(target=start_sync)
     thread.start()
@@ -162,7 +188,7 @@ def browse_destination():
     if folder_selected:
         destination_folder.set(folder_selected)
         config = load_json(CONFIG_FILE)
-        config['destination'] = folder_selected
+        config['destination'] = folder_selected)
         save_json(config, CONFIG_FILE)
 
 def load_saved_folders():
@@ -187,6 +213,7 @@ tk.Label(root, text="Destination Folder:").grid(row=2, column=0, padx=10, pady=1
 tk.Entry(root, textvariable=destination_folder, width=50).grid(row=2, column=1, padx=10, pady=10)
 tk.Button(root, text="Browse", command=browse_destination).grid(row=2, column=2, padx=10, pady=10)
 
+tk.Button(root, text="Create Initial Snapshot", command=start_snapshot_creation).grid(row=3, column=0, pady=20)
 tk.Button(root, text="Start Sync", command=start_sync_thread).grid(row=3, column=1, pady=20)
 
 log_widget = tk.Text(root, height=10, width=70)
